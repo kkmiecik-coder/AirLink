@@ -28,7 +28,6 @@
 		B7803C4F2E48359D0014DC94 /* AirLinkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AirLinkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7803C502E48359D0014DC94 /* AirLinkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AirLinkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7821AFB2E48DCF800F74A8D /* AirLinkApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirLinkApp.swift; sourceTree = "<group>"; };
-		B7821AFC2E48DD0300F74A8D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -95,7 +94,6 @@
 				B7821B832E48E07D00F74A8D /* Tests */,
 				B7821B7F2E48E05E00F74A8D /* Navigation */,
 				B7821B772E48E02000F74A8D /* DesignSystem */,
-				B7821AFC2E48DD0300F74A8D /* Info.plist */,
 				B7821AFF2E48DD2E00F74A8D /* Core */,
 				B7821AFD2E48DD0F00F74A8D /* Localizable */,
 				B7821B672E48DFC300F74A8D /* Features */,
